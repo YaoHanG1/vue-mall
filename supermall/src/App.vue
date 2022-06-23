@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- qq 756898435 -->
+    <!-- qq 756898435 dev-->
     <keep-alive exclude="Detail">
       <router-view></router-view>
     </keep-alive>
